@@ -11,6 +11,6 @@
   💙 JavaScript, Angular, TypeScript, NodeJS
 
 
-  ⭐ Although this is GitHub, feel free to also talk to me about plants, philosphy, art and genereally anything 
+  ⭐ Although this is GitHub, also contact me about Permaculture, Philosphy, Art or anything that you deem fit! 
 
  [![Linkedin Badge](https://img.shields.io/badge/-florianbracke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florianbracke/)](https://www.linkedin.com/in/florianbracke/) [![Gmail Badge](https://img.shields.io/badge/-florianbracke@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:florianbracke@gmail.com)](mailto:florianbracke@gmail.com)
