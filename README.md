@@ -4,7 +4,7 @@
   👨‍🎓 I am a proud student of [BeCode](https://becode.org/) and enjoyed their seven month Junior Web Dev Course to the fullest!
 
 
-  🔭 I’m currently working on deploying my [flofpages](https://flofpages.com/). It is where I store all my art, projects, code, ...
+  🔭 I’m currently working on deploying my [flofpages](https://flofpages.com/). It is where I want to store my art, projects, code, ...
     <br> Feel free to check it out! 
      
 
