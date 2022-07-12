@@ -6,11 +6,10 @@
   👨‍🎓 I am a proud student of [BeCode](https://becode.org/) and enjoyed their seven month Junior Web Dev Course to the fullest!
 
 
-  🔭 I’m currently working on deploying my [flofpages](https://flofpages.com/). It is where I want to store my art, projects, code, ...
-    <br> Feel free to check it out! 
+  🔭 I’m currently working as a fullstack WordPress developer at [Wizarts](https://wizarts.be/). It is a great opportunity to learn and develop in such a cool company! 
      
 
-  💙 JavaScript, Angular, TypeScript, NodeJS
+  💙 JavaScript, PHP
 
 
   ⭐ Although this is GitHub, also contact me about Permaculture, Philosphy, Art or anything that you deem fit! 
